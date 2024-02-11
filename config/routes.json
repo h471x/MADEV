@@ -1,0 +1,9 @@
+[
+  {
+    "path": "/",
+    "method": "GET",
+    "controller": "App\\Controllers\\Welcome",
+    "action": "index",
+    "parameters": []
+  }
+]
